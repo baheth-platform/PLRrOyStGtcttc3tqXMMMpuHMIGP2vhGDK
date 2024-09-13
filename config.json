@@ -1,0 +1,83 @@
+{
+  "user_id": 1,
+  "playlist_id": 80,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "",
+  "hidden": false,
+  "media": [
+    {
+      "title": "بره الصندوق | بين الفكر والواقع (1) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:57:57",
+      "link": "https://www.youtube.com/watch?v=JryKhPrV9zs",
+      "transcript_txt": "JryKhPrV9zs.txt",
+      "transcript_srt": "JryKhPrV9zs.srt"
+    },
+    {
+      "title": "بره الصندوق | بين الفكر والواقع (2) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:45:50",
+      "link": "https://www.youtube.com/watch?v=Sa7E-TMIuBo",
+      "transcript_txt": "Sa7E-TMIuBo.txt",
+      "transcript_srt": "Sa7E-TMIuBo.srt"
+    },
+    {
+      "title": "بره الصندوق | مفهوم التحضر والتخلف (1) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:49:21",
+      "link": "https://www.youtube.com/watch?v=ybv7qZQcGjo",
+      "transcript_txt": "ybv7qZQcGjo.txt",
+      "transcript_srt": "ybv7qZQcGjo.srt"
+    },
+    {
+      "title": "بره الصندوق | مفهوم التحضر والتخلف (2) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:46:56",
+      "link": "https://www.youtube.com/watch?v=TMBPstoVOxo",
+      "transcript_txt": "TMBPstoVOxo.txt",
+      "transcript_srt": "TMBPstoVOxo.srt"
+    },
+    {
+      "title": "بره الصندوق | الإصلاح بين الدولة والمجتمع - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:47:45",
+      "link": "https://www.youtube.com/watch?v=ZniLCcP_zG4",
+      "transcript_txt": "ZniLCcP_zG4.txt",
+      "transcript_srt": "ZniLCcP_zG4.srt"
+    },
+    {
+      "title": "بره الصندوق | التاريخ الإسلامي كتبه وكيف تقرأه - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:52:36",
+      "link": "https://www.youtube.com/watch?v=ykt2ti9q3AY",
+      "transcript_txt": "ykt2ti9q3AY.txt",
+      "transcript_srt": "ykt2ti9q3AY.srt"
+    },
+    {
+      "title": "بره الصندوق | مجتمع بلا مدارس - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:51:52",
+      "link": "https://www.youtube.com/watch?v=OxQJtfQN0os",
+      "transcript_txt": "OxQJtfQN0os.txt",
+      "transcript_srt": "OxQJtfQN0os.srt"
+    },
+    {
+      "title": "بره الصندوق | لماذا نعلم أطفالنا باللغات الأجنبية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:45:05",
+      "link": "https://www.youtube.com/watch?v=AgAypVSuiUQ",
+      "transcript_txt": "AgAypVSuiUQ.txt",
+      "transcript_srt": "AgAypVSuiUQ.srt"
+    },
+    {
+      "title": "بره الصندوق | القابلية للإستعمار وعالم الأفكار - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:44:36",
+      "link": "https://www.youtube.com/watch?v=1xzbL8MKcKM",
+      "transcript_txt": "1xzbL8MKcKM.txt",
+      "transcript_srt": "1xzbL8MKcKM.srt"
+    }
+  ]
+}
